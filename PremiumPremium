@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Sports Channels",Tring Sport 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/268.ts
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Sports Channels",Tring Sport 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/269.ts
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Sports Channels",Tring Sport 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/270.ts
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Sports Channels",Tring Sport 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/271.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports Channels",RTSH Sport
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/280.ts
+#EXTINF:0 tvg-id="extreme-sports" group-title="Sports Channels",Extreme Sports Channel
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/281.ts
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Sports Channels",FreeSports
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/284.ts
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Sports Channels",Premier Sports
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/285.ts
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Sports Channels",Premier Sports 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/286.ts
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Sports Channels",UK: Sky Sports News
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/287.ts
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sports Channels",UK: Sky Sports Main Event
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/288.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sports Channels",UK: Sky Sports Premier League
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/291.ts
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Sports Channels",UK: Sky Sports Football
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/290.ts
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Sports Channels",UK: Sky Sports Mix
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/289.ts
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sports Channels",UK: Sky Sports Arena
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/292.ts
+#EXTINF:0 tvg-id="ext" group-title="Sports Channels",UK: Sky Sports NFL
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/293.ts
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Sports Channels",UK: Sky Sports Golf
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/294.ts
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Sports Channels",UK: Sky Sports Cricket
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/295.ts
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Sports Channels",UK: BT Sport 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/298.ts
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Sports Channels",UK: BT Sport 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/299.ts
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Sports Channels",UK: BT Sport 3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/300.ts
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Sports Channels",UK: BT Sport ESPN
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/301.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Sports Channels",ES: Barça TV
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/336.ts
